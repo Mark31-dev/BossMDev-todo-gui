@@ -15,7 +15,7 @@
 
 ## 📸 Preview
 
-<img src="https://github.com/Mark31-dev/BossMDev-todo-gui/assets/your-image-id/preview.gif" alt="App Preview" width="400"/>
+<img src="bossm_todo_preview.gif" alt="BossM TODO App Preview" width="400"/>
 
 ---
 
